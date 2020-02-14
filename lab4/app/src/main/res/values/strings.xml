@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">todo</string>
+    <string name="textView">To Do List</string>
+    <string name="button">Submit</string>
+    <string name="editText">Task</string>
+    <string name="checkBox">Done</string>
+</resources>
